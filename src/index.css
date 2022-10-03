@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+}
+@media(min-width: 500px){
+  .header_left{
+    display: flex;
+  }
+}
